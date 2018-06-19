@@ -1,0 +1,9 @@
+{
+    "app": {
+        "name": "app-name",
+        "version": "0.0.1",
+        "ip": "0.0.0.0",
+        "log_config_path": "conf/logging.ini",
+        "log_level": "${APP_LOG_LEVEL:-10}"
+    }
+}
